@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Japanese Roof</title>
+		<meta name="author" content="JCC"/>
+		<meta name="keywords" content="css, blog, project, html, finals"/>
+	</head>
+	
+	<link rel="stylesheet" type="text/css" href="../styles/Final_Project_Cagay-an.css"/>
+	
+	<body id="jproofs">
+		
+		<header id="header">
+			
+			<section id="topbarp">
+				
+				<div id="title">
+					<h1> Blog Title </h1>
+				</div>
+			
+				<div id="mainmenu">
+					<ul class="ulmain">
+						<li class="listmain"><a id="home" href="#home">Home</a></li>
+						<li class="listmain"><a id="signup" href="#Sign up">Sign up</a></li>
+						<li class="listmain"><a id="references" href="#References">References</a></li>
+					</ul>
+				</div>	
+			
+			</section>
+			
+		</header>	
+		
+		<br><br><br><br>
+		
+		<section id="body">
+			
+			<div id="jpr">
+				<h3>Japanese Roof</h3>
+				<hr>
+				
+				<img src="../src/jproofs.png">
+				
+				<p>Pyramids are monumental structures made of stone or brick with a rectangular base and four sloping sides meeting at an apex or truncated to form a platform. They have been built in various countries, but the ones in Egypt and Central and South America are the most famous. In ancient Egypt, pyramids were used as funerary edifices, and they were built over 2,700 years, from the beginning of the Old Kingdom to the end of the Ptolemaic period. The pyramid age of excellence began with the 3rd dynasty and ended roughly at the 6th dynasty. The essential components of a pyramid complex in Egypt during the Old Kingdom were the pyramid itself, a mortuary temple, and a causeway leading down to a pavilion located at the edge of the cultivation, probably connected to the Nile by a canal. While many royal pyramids have been found in Egypt, many were plundered of their treasures and reduced to debris mounds.</p>
+				<br>
+				<p>The mastaba was the predecessor of the pyramid and was a tomb with a rectangular superstructure made of mud brick or stone and a shaft leading to the burial chamber below. Djoser, the second king of the 3rd dynasty, employed Imhotep as an architect to build a mastaba entirely of stone. It was later extended on all four sides and its height increased by building rectangular additions of diminishing size superimposed upon its top. This structure became known as the Step Pyramid, which is believed to be the earliest important stone building erected in Egypt. It has an underground system of corridors and rooms with a central shaft leading to the sepulchral chamber made of granite from Aswān. The Step Pyramid is located in a large walled court that contains remnants of other stone edifices built to serve the king in the afterlife.</p>
+				<br>
+				<p>The Bent Pyramid in Dahshūr and the Maydūm Pyramid, both built by Snefru of the 4th dynasty, mark advances towards the true pyramid form. The Bent Pyramid has a double slope and is almost a true pyramid, while the Maydūm Pyramid was initially built as a stepped structure and gradually converted into a true pyramid. The Red Pyramid at Dahshūr is the earliest known true pyramid, possibly also built by Snefru. The most famous pyramids are the Great Pyramids of Giza, built by Khufu, Khafre, and Menkure. American pyramids, such as those at Teotihuacán and Chichén Itzá, were typically built of earth and faced with stone. The Pyramid of the Sun in Teotihuacán is comparable in size to the Great Pyramid of Khufu.</p>
+				<hr>
+				
+			</div>
+		</section>
+		
+		<footer id="footerp">	
+				
+			<section>
+					
+				<div class="fdiv" id="footernav">
+					<ul id="fnavlist">
+						<li class="fnav"><a id="home" href="#home">Home</a></li>
+						<br>
+						<li class="fnav"><a id="signup" href="#Sign up">Sign up</a></li>
+						<br>
+						<li class="fnav"><a id="references" href="#References">References</a></li>
+					</ul>
+				</div>
+					
+				<div class="fdiv" id="aboutdesc">	
+					<h1>About</h1>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ipsum diam, dapibus id purus ac, malesuada varius purus.</p>
+				</div>
+					
+				<div id="fblogtitle">
+					<br><br>
+					<h1>Blog Title</h1>
+					<br><br><br>
+				</div>
+				
+			</section>
+		</footer>
+		
+	</body>
+</html>
